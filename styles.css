@@ -1,7 +1,7 @@
 /* Arquivo de estilos para personalizar o design do site feito */
 body {
     background-color: black; /* Cor de fundo preto */
-    color: purple; /* Cor do texto roxa */
+    color: goldenrod; /* Cor do texto ouro */
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -16,7 +16,7 @@ body {
 header {
     text-align: center;
     margin-bottom: 20px;
-    background-color: goldenrod;
+    color: whitesmoke;    
 }
 
 nav ul {
